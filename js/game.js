@@ -22,6 +22,7 @@ var game = {
         },
 
         fairyCastle: {
+            background_image:"castle.jpeg",
     
             music: "Final-Fantasy-7-Boss-Battle.mp3",
             message: "You are transported to a fairy castle and are greeted by the Queen of Faries",
